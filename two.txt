@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 two three two
+=======
+two
+ chenge in git 
+ three i write on git to show;
+>>>>>>> refs/remotes/origin/main
